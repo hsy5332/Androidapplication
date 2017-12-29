@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Fri Dec 29 12:22:06 CST 2017
+1.base=D\:\\Android\\AndroidStudioProjects\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\assets\\debug
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\Android\\AndroidStudioProjects\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.set=ASSET
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=photo_3.jpg
+count=4
+1.set=ASSET
+0.path=photo_2.jpg
+3.base=D\:\\Android\\AndroidStudioProjects\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\assets\\debug
+0.set=ASSET
+0.base=D\:\\Android\\AndroidStudioProjects\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=photo_1.jpg
