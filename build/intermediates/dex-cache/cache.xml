@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_9c07f1b1af11dda818b91b8f25f0082fd617e2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_775cebe625ab21908cc75c51afe35824f7c83511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_a33d0e76c91c7e12e820f3017f86f5657d0253f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_d80cb15c388d8c6173281a678d187c08c4b3815a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_eb53c862bc4f00bb4cf584337c8d344cbef1eef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_7bec64a4ff5e53c4107828cb9d9e43b67a7a0d7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_d76bf5f33dca723f4f789c93ee57ed1230d569c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_cd1c5a3313c6d744eaf78ee2319d2c0413895843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_a01b8561e616fa34017d429b7406126b54c00610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_dd866cd7e97b84e2b7e8afbf3ae556a3af14cb7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_82e8d9e89361289f5951f7113f55808b108e5397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_f1da90cde2072e70c7f25686e7e6422404bbda10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Volumes/Software/Work/Eclipse/AndroidProjects/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_4f2bb53b99e0b11195f724e1900d1a8e09b5f907.jar" />
+    </item>
+
+</items>
